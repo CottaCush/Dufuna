@@ -11,8 +11,8 @@ This README explains how to get started with the Dufuna Scholarship Programme.
 - In this directory, create a new file with the solution of each weekly task. Example: `Week_1_solution.py`
 
 * You can also create an `about.md` file to introduce yourself to the dufuna community. In this file, the structure should be.
-* Introduction <br>
-* Some other fun details such as favourite emoji.<br>
+  * Introduction <br>
+  * Some other fun details such as favourite emoji.<br>
 
 - Some Resources to help with the tasks are in [RESOURCES.md](RESOURCES.md).
 
