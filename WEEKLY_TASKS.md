@@ -9,3 +9,7 @@ Create an account on Github if you don’t have one.
 2. Add your solution to the Fizzbuzz challenge to your `submissions` directory and make a PR.
 
 If you have any issues in this task, kindly relay them in the #ask-mentors channel on slack for support
+
+### *Week 2: Logic.*
+This task is to test your knowledge about basic boolean Logic, truth tables and drawing valid conclusions. The task can be found in [Logic Problem Sets](./weekly-tasks/week2-logic-problem-set.pdf)
+
