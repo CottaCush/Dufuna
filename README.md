@@ -14,7 +14,7 @@ This README explains how to get started with the Dufuna Scholarship Programme.
 * Introduction <br>
 * Some other fun details such as favourite emoji.<br>
 
-- The Weekly tasks are found in [RESOURCES.md](RESOURCES.md).
+- Some Resources to help with the tasks are in [RESOURCES.md](RESOURCES.md).
 
 - The Weekly tasks are found in [WEEKLY_TASKS.md](WEEKLY_TASKS.md).
 
