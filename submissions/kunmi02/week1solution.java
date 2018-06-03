@@ -15,7 +15,7 @@ public class Fizzbuzz {
             } //end of fizz
             else if ((i % 5)==0){ // condition for buzz
                 System.out.println ("Buzz" + "\n");
-            } // eond of buzz
+            } // end of buzz
             else{
             System.out.println ( i + "\n"); //print the number if it does not satisfy the fizz,buzz or fizzbuzz condition
         }
