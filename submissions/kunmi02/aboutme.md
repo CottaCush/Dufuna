@@ -1,6 +1,6 @@
 Brief Introduction
 
-My name is Azeez Ibrahim Akinkunmi from University of Ibadan. I am a 400L student of computer science department.
+My name is Azeez Ibrahim Akinkunmi from University of Ibadan. I am computer science Student.
 
 
 ABOUT CODING
