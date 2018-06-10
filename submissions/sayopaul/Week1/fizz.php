@@ -17,7 +17,3 @@
 		echo $output;
 
 	}
-
-
-
-	
