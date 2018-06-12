@@ -1,6 +1,6 @@
 # Dufuna Weekly Tasks
 
-### *Week 1: Get to know about Git and GitHub.*
+### *Week 1 & 2: Get to know about Git and GitHub.*
 
 Create an account on Github if you don’t have one.
 
@@ -10,7 +10,7 @@ Create an account on Github if you don’t have one.
 
 If you have any issues in this task, kindly relay them in the #ask-mentors channel on slack for support
 
-### *Week 2: Logic.*
+### *Week 3: Maths for computer science: Logic .*
 
 This task is to test your knowledge about basic boolean Logic, truth tables and drawing valid conclusions.
 
