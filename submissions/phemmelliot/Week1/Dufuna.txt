@@ -1,0 +1,25 @@
+package edu.princeton.cs.algs4;
+
+/**
+ * Created by phemmelliot on 4/24/18.
+ */
+public class Dufuna {
+    public static void main(String[] args){
+        for(int i = 1; i<=100; i++){
+            check(i);
+        }
+    }
+    // i used this algorithm since no optimization will change the runtime significantly
+    // O(N) and O(logN) won't be different here for both time and space complexity
+    private static void check(int i){
+        if(i%15 == 0 )
+            System.out.println("fizzbuzz");
+        else if(i%5 == 0)
+            System.out.println("buzz");
+        else if(i%3 == 0)
+            System.out.println("fizz");
+        else
+            System.out.println(i);
+    }
+}
+
