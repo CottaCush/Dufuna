@@ -1,5 +1,4 @@
 public class FizzBuzzMain {
-
 	public static void main(String[] args) {
 		
 		for ( int fb=1; fb<=100; fb++) {
