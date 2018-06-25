@@ -5,5 +5,5 @@ for a in range (1,100):
     print('Fizz\n')
   elif a%5==0:
     print('Buzz\n')
-     else:
-  print (str(a)+'\n')
+  else:
+    print (str(a)+'\n')
