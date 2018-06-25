@@ -20,3 +20,7 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 #### Please Note:
   You should use Tables to answer questions involving Truth tables.
   Ensure you give your mentors permission to comment on the Google doc you share with them.
+
+### *Week 4: Maths for computer science: Boolean Algebra.*
+This task is to test your knowledge about basic boolean theorems and De Morgan's law of boolean algebra.<br><br>
+[Boolean Algebra Problem sets](./weekly-tasks/Week4-Boolean-algebra-problem-set.pdf)
