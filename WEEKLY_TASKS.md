@@ -24,3 +24,26 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 ### *Week 4: Maths for computer science: Boolean Algebra.*
 This task is to test your knowledge about basic boolean theorems and De Morgan's law of boolean algebra.<br><br>
 [Boolean Algebra Problem sets](./weekly-tasks/Week4-Boolean-algebra-problem-set.pdf)
+
+### *Week 6: Introduction to Linux Command Line.*
+
+Check out [CodeAcademy](https://www.codecademy.com/learn/learn-the-command-line) or [Learn Shell](http://www.learnshell.org) for interactive Shell Programming tutorials.
+
+Read up the following command and give a detailed report about it
+- file
+- mv
+- rm
+- mkdir
+- rmdir 
+- tar
+- zip
+- chmod
+- chown
+- chgrp
+
+Learn I/O Redirection ie (input and output)
+
+Come up with at least Five other Linux commands and what that are used for.
+
+
+To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors. 
