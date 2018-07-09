@@ -31,16 +31,16 @@ Use this material for a quick introduction to linux. [Intro to Linux](https://ww
 Check out [CodeAcademy](https://www.codecademy.com/learn/learn-the-command-line) or [Learn Shell](http://www.learnshell.org) for interactive Shell Programming tutorials.
 
     1. Read up the following command and give a detailed report about it
-            - file
-            - mv
-            - rm
-            - mkdir
-            - rmdir 
-            - tar
-            - zip
-            - chmod
-            - chown
-            - chgrp
+        - file
+        - mv
+        - rm
+        - mkdir
+        - rmdir 
+        - tar
+        - zip
+        - chmod
+        - chown
+        - chgrp
 
     2. Come up with at least Five other Linux commands and what that are used for.
 
