@@ -20,3 +20,28 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 #### Please Note:
   You should use Tables to answer questions involving Truth tables.
   Ensure you give your mentors permission to comment on the Google doc you share with them.
+
+### *Week 4: Maths for computer science: Boolean Algebra.*
+This task is to test your knowledge about basic boolean theorems and De Morgan's law of boolean algebra.<br><br>
+[Boolean Algebra Problem sets](./weekly-tasks/Week4-Boolean-algebra-problem-set.pdf)
+
+### *Week 6: Introduction to Linux Command Line.*
+
+Use this material for a quick introduction to linux. [Intro to Linux](https://www.sheffield.ac.uk/polopoly_fs/1.13425!/file/IntroLinux.pdf)
+Check out [CodeAcademy](https://www.codecademy.com/learn/learn-the-command-line) or [Learn Shell](http://www.learnshell.org) for interactive Shell Programming tutorials.
+
+    1. Read up the following command and give a detailed report about it
+        - file
+        - mv
+        - rm
+        - mkdir
+        - rmdir 
+        - tar
+        - zip
+        - chmod
+        - chown
+        - chgrp
+
+    2. Come up with at least Five other Linux commands and what that are used for.
+
+To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors. 
