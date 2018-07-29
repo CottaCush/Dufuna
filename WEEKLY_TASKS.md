@@ -44,4 +44,12 @@ Check out [CodeAcademy](https://www.codecademy.com/learn/learn-the-command-line)
 
     2. Come up with at least Five other Linux commands and what that are used for.
 
-To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors. 
+To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors.
+
+### *Week 9: Introduction to Linux Command Line.*
+
+This week's task is to test your knowledge on what you have learnt on linux during the break. 
+
+[Linux Command Line Problem Set](https://github.com/CottaCush/Dufuna/blob/master/weekly-tasks/Week-5-Linux-Command-Line-problem-set.pdf)
+
+To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors.
