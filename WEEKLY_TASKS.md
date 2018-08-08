@@ -15,7 +15,7 @@ If you have any issues in this task, kindly relay them in the #ask-mentors chann
 This task is to test your knowledge about basic boolean Logic, truth tables and drawing valid conclusions. 
 To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors. 
 
-[Logic Problem Sets](./weekly-tasks/week2-logic-problem-set.pdf)
+[Logic Problem Sets](./weekly-tasks/week3-logic-problem-set.pdf)
 
 #### Please Note:
   You should use Tables to answer questions involving Truth tables.
@@ -50,6 +50,12 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 
 This week's task is to test your knowledge on what you have learnt on linux during the break. 
 
-[Linux Command Line Problem Set](https://github.com/CottaCush/Dufuna/blob/master/weekly-tasks/Week-5-Linux-Command-Line-problem-set.pdf)
+[Linux Command Line Problem Set](./weekly-tasks/Week-9-Linux-Command-Line-problem-set.pdf)
 
 To submit the task for this week. Kindly create a Google doc for your solution and share it directly with your mentors.
+
+### *Week 10: Introduction to Linux Command Line.* 
+
+[More on Linux Command Line Problem Set](./weekly-tasks/Week_10_More on Linux Commands.pdf)
+
+To submit the task for this week, create a Google doc for your solution and share it directly with your mentors.
