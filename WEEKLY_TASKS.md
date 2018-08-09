@@ -56,6 +56,6 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 
 ### *Week 10: Introduction to Linux Command Line.* 
 
-[More on Linux Command Line Problem Set](./weekly-tasks/Week_10_More on Linux Commands.pdf)
+[More on Linux Command Line Problem Set](./weekly-tasks/Week_10_More%20on%20Linux%20Commands.pdf)
 
 To submit the task for this week, create a Google doc for your solution and share it directly with your mentors.
