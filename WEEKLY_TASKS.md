@@ -72,3 +72,5 @@ This week's task is to test your knowledge on databases and SQL.
 
 
   4. Solve the first Ten challenges on SQL on Hackerrank.(https://www.hackerrank.com/domains/sql)
+  
+  Kindly share your submission in a google sheet with all your mentors.
