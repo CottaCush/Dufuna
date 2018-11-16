@@ -64,12 +64,11 @@ To submit the task for this week, create a Google doc for your solution and shar
 
 This week's task is to test your knowledge on databases and SQL.
 
-    1. What is SQL?
-    
-    2. Write about what you understand about (CreateReadUpdateDelete) CRUD operations on Databases and their respective SQL commands.
-    
-    3. [Complete these series challenges on W3Schools.](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
+  1. What is SQL?
+
+  2. Write about what you understand about (CreateReadUpdateDelete) CRUD operations on Databases and their respective SQL commands.
+
+  3. Complete these series challenges on W3Schools.(https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
 
 
-    4. [Solve the first Ten challenges on SQL on Hackerrank](https://www.hackerrank.com/domains/sql)
-c
+  4. Solve the first Ten challenges on SQL on Hackerrank.(https://www.hackerrank.com/domains/sql)
