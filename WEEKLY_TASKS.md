@@ -63,6 +63,7 @@ To submit the task for this week, create a Google doc for your solution and shar
 ### *Week 24, 25 and 26: Introduction to Databases.*
 
 This week's task is to test your knowledge on databases and SQL.
+  Kindly share your submission in a google sheet with all your mentors.
 
   1. What is SQL?
 
@@ -73,4 +74,4 @@ This week's task is to test your knowledge on databases and SQL.
 
   4. Solve the first Ten challenges on SQL on Hackerrank.(https://www.hackerrank.com/domains/sql)
   
-  Kindly share your submission in a google sheet with all your mentors.
+  
