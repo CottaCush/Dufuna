@@ -59,3 +59,19 @@ To submit the task for this week. Kindly create a Google doc for your solution a
 [More on Linux Command Line Problem Set](./weekly-tasks/Week_10_More%20on%20Linux%20Commands.pdf)
 
 To submit the task for this week, create a Google doc for your solution and share it directly with your mentors.
+
+### *Week 24, 25 and 26: Introduction to Databases.*
+
+This week's task is to test your knowledge on databases and SQL.
+  Kindly share your submission in a google sheet with all your mentors.
+
+  1. What is SQL?
+
+  2. Write about what you understand about (CreateReadUpdateDelete) CRUD operations on Databases and their respective SQL commands.
+
+  3. Complete these series challenges on W3Schools.(https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
+
+
+  4. Solve the first Ten challenges on SQL on Hackerrank.(https://www.hackerrank.com/domains/sql)
+  
+  

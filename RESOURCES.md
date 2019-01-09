@@ -17,3 +17,9 @@ Resources to getting started with Linux
 [Learn Shell](http://www.learnshell.org)
 
 [Intro to Linux](https://www.sheffield.ac.uk/polopoly_fs/1.13425!/file/IntroLinux.pdf)
+
+[Intro to Database: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+[More on SQL](https://www.tutorialspoint.com/sql/sql_interview_questions.htm)
+
+[CodeAcademy](https://www.codecademy.com/catalog/language/sql)
