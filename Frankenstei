@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Loveday's Poetry Page
+</title>
+<style>
+body{background-image:url("one.jpg");
+}
+</style>
+</head>
+<body>
+<img src="one.jpg" alt="" width=30% height=30% />
+<p>
+<a href="">HOME</a>|
+<a href="">CONTACT</a>|
+<a href="">OTHER SERVICES</a>|
+<a href="">LICENSE</a>
+</p>
+<h1><b>WELCOME TO MY WORLD OF POETRY</b></h1>
+<h2>THE RAIN</h2>
+<p>
+All the dirt has gone away<br />
+All the children go to play<br />
+Call my mother, just one call away<br />
+I am wet<br />
+I have no regret<br />
+For in this depth<br />
+Have I been beaten<br />
+Beaten, yes I say<br />
+By this most gracious rain<br />
+<mark><em>Loveday</em></marK>
+</p>
+<hr />
+<p><em><a href="">SEE MORE...</a></em></p>
+<h2>LVD FOUNDATION CONTEST</h2>
+You can fill the form below to register for the forth
+-coming poetry challenge
+<form action="" method="POST">
+<fieldset>
+<legend><h4>INFORMATION</h4></legend>
+<ul>
+<li>Name: <input type="text" />
+</li>
+<li>Email Address:<input type="email" />
+</li>
+<li> Phone number: <input type="text" />
+<input type="submit" value="SUBMIT" />
+</ul>
+</fieldset>
+</form>
+<table>
+<tr>
+<td width="30%"><h3>MOTTO</h3>
+Impacting lives through words</td>
+<td width="30%"><h3>VISION</h3>
+To be one of the leading foundations fostering creative writing</td>
+<td width="30%"><h3>SPONSORS</h3>
+<ul>
+<li>GOOGLE</li>
+<li>FACEBOOK</li>
+<li>ZENITH</li>
+</ul>
+</td>
+</tr>
+</table>
+</body>
+</html>
