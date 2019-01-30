@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+QUIZ2
+</title>
+<script src="quiz.js">
+</script>
+</head>
+<body>
+</body>
+</html>
